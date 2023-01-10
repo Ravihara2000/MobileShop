@@ -1,0 +1,6 @@
+Series_Name	Series_ID	IMDB_value
+Lusifer             1              8.10
+Punisher            2              8.60
+Dark                3              8.80
+Vikings             4              8.50
+GameOfThrones       5              9.20

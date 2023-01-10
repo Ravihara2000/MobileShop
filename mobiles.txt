@@ -1,0 +1,15 @@
+1004	Apple iphone 6s Plus 
+1001	Galaxy A52 5G
+1002	Google Pixel 4a withˆ¾
+1010	Mi 10 Lite
+1009	Mi 10 Pro
+1013	Motorola StarTac
+1014	Nokia 3310
+1015	Nokia 8110
+1003	O2 XDA Orbit
+1012	OnePlus 7T
+1011	OnePlus 8 Pro
+1005	Samsung S9402 Ego
+1006	Samsung T219
+1008	Siemens AP75
+1007	Siemens CF110
